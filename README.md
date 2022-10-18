@@ -83,4 +83,4 @@ R	The argument received is expected to be a pointer type char * to an array of c
 
 
 Authors: Ezeagu Obiukwu C
-&        OLABISI Olusola
+and      OLABISI Olusola
